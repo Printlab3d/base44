@@ -3,7 +3,7 @@
 import React from 'react';
 import { Menu, X, Languages } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { LanguageProvider, useLanguage } from './components/context/LanguageContext';
+import { LanguageProvider, useLanguage } from '../components/context/LanguageContext';
 import {
   DropdownMenu,
   DropdownMenuContent,
